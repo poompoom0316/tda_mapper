@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1604802475997.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3111947605",
+    "id" : "1F4D9044",
+    "lastKnownWriteTime" : 1604817176,
+    "last_content_update" : 1604817176172,
+    "path" : "~/hobby/tda_mapper/tda_mapper/Script/test.R",
+    "project_path" : "Script/test.R",
+    "properties" : {
+        "cursorPosition" : "14,23",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
